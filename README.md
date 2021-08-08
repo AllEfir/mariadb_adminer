@@ -1,2 +1,2 @@
 # mariadb_adminer
-Example
+Example docker
