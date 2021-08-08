@@ -1,0 +1,2 @@
+# mariadb_adminer
+Example
